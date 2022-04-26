@@ -1,9 +1,0 @@
-font-family: 'Open Sans', sans-serif;
-
-font-family: 'Oswald', sans-serif;
-
-0872b9
-
-<div class="common_head text-center">
-                    <h3>our services</h3>
-                </div>
