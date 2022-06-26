@@ -142,6 +142,7 @@ li {
     right: 40px;
     display: none;
     cursor: pointer;
+    z-index: 999;
 }
 
 /* ============================================
